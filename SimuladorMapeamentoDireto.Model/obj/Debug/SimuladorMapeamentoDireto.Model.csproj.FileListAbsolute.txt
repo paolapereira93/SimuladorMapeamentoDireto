@@ -1,0 +1,10 @@
+C:\Users\paola.pereira\Documents\Paola\SimuladorMapeamentoDireto\SimuladorMapeamentoDireto.Model\bin\Debug\SimuladorMapeamentoDireto.Model.dll
+C:\Users\paola.pereira\Documents\Paola\SimuladorMapeamentoDireto\SimuladorMapeamentoDireto.Model\bin\Debug\SimuladorMapeamentoDireto.Model.pdb
+C:\Users\paola.pereira\Documents\Paola\SimuladorMapeamentoDireto\SimuladorMapeamentoDireto.Model\obj\Debug\SimuladorMapeamentoDireto.Model.csprojResolveAssemblyReference.cache
+C:\Users\paola.pereira\Documents\Paola\SimuladorMapeamentoDireto\SimuladorMapeamentoDireto.Model\obj\Debug\SimuladorMapeamentoDireto.Model.dll
+C:\Users\paola.pereira\Documents\Paola\SimuladorMapeamentoDireto\SimuladorMapeamentoDireto.Model\obj\Debug\SimuladorMapeamentoDireto.Model.pdb
+C:\Users\Paola\Documents\Paola\SimuladorMapeamentoDireto\SimuladorMapeamentoDireto.Model\bin\Debug\SimuladorMapeamentoDireto.Model.dll
+C:\Users\Paola\Documents\Paola\SimuladorMapeamentoDireto\SimuladorMapeamentoDireto.Model\bin\Debug\SimuladorMapeamentoDireto.Model.pdb
+C:\Users\Paola\Documents\Paola\SimuladorMapeamentoDireto\SimuladorMapeamentoDireto.Model\obj\Debug\SimuladorMapeamentoDireto.Model.csprojResolveAssemblyReference.cache
+C:\Users\Paola\Documents\Paola\SimuladorMapeamentoDireto\SimuladorMapeamentoDireto.Model\obj\Debug\SimuladorMapeamentoDireto.Model.dll
+C:\Users\Paola\Documents\Paola\SimuladorMapeamentoDireto\SimuladorMapeamentoDireto.Model\obj\Debug\SimuladorMapeamentoDireto.Model.pdb
